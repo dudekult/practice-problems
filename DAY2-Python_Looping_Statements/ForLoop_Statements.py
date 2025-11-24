@@ -42,4 +42,5 @@ for K in reversed(range(1,8)):
 for Z in range(9, 0, -1):
     print('*' * Z)
     # print(T)
+
     
